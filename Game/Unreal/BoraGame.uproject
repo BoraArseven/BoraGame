@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{B41B4599-4C24-40F2-9A42-3D9B6B1C85F8}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "BoraGame",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
